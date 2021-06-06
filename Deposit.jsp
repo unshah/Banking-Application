@@ -1,7 +1,7 @@
 <!--
 /******************************************************************************
-*	Program Author: Dr. Yongming Tang for CSCI 6810 Java and the Internet	  *
-*	Date: September, 2012													  *
+*	Program Author: Ujjwal Shah for CSCI 3480 Java and the Internet	  *
+*	Date: May, 2021												  *
 *******************************************************************************/
 -->
 <%@ page import="java.io.*" %>
